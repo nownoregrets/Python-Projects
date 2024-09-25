@@ -1,0 +1,7 @@
+a + b
+a*a + b*b + 2a*b
+
+Solve:
+       4x4 + 2x2 + 2x4x2
+       16 + 4 + 16
+       36 Answer
